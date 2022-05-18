@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Shaktii</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="already_registered_click_here">already registered? click here!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="ph_number">Ph. Number</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_sos_my_location">sosMyLocation</string>
+    <string name="para"><b>1. Safety</b> :The primary importance of self-defence is for women to be able to protect themselves against anything that’s unacceptable in terms of social conduct.
+        \n\n
+<b>2. Confidence</b> :There is nothing more empowering than having the confidence to analyse a dangerous situation and take actions to overcome them effectively.
+        \n\n
+<b>3. Empowerment</b> :It empowers women to lead a healthy and fulfilling life by encouraging them to deal with stressful and dangerous situations independently.
+        \n\n
+<b>4. Discipline</b>:It teaches discipline which transfers over to all other areas of life. It helps women be calmer, understanding, flexible, gain body and mind control, be more responsive than reactive, more observant, and achieve cognitive awareness.
+        \n\n
+<b>5. Reduces Dependency</b> :Just because you’re a woman, you shouldn’t be asked to travel with a companion! That’s what learning self-defense does – it makes you independent, helping you protect yourself in every situation.
+        \n\n
+<b>6. Health and Fitness</b> :Self-Defense programs are also a fun way of exercising and building a healthy body, thereby improving physical and mental health.
+        \n\n
+<b>7. Reduces Discrimination/Sexism</b> :Crimes against women can be curbed in a significant way when women are empowered to fight back against any discrimination and sexism.
+        \n\n</string>
+    <string name="why_is_self_defense_important">Why is Self-Defense Important?</string>
+    <string name="ladies_it_s_unfortunate_that_sometimes_we_might_end_up_in_bad_situations_where_we_need_to_protect_ourselves_don_t_be_a_victim_watch_this_video_to_learn_these_5_self_defense_moves_which_you_can_apply_when_it_s_needed">Ladies, it\'s unfortunate that sometimes we might end up in bad situations where we need to protect ourselves. Don\'t be a victim! Watch this video to learn these 5 self-defense moves which you can apply when it\'s needed.</string>
+    <string name="_5_self_defense_moves_every_woman_should_know">5 Self-Defense Moves Every Woman Should Know</string>
+    <string name="you_can_learn_self_defense_at_home">You Can Learn Self Defense at Home</string>
+    <string name="contact_1">Contact 1</string>
+    <string name="contact_2">Contact 2</string>
+    <string name="contact_3">Contact 3</string>
+    <string name="contact_4">Contact 4</string>
+    <string name="contact_5">Contact 5</string>
+    <string name="save_contacts">Save Contacts</string>
+    <string name="save_your_emergency_contacts_here">save your emergency contacts here!</string>
+    <string name="emergency">emergency</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="your_number">Your Number</string>
+    <string name="title_activity_nearby_help">nearbyHelp</string>
+    <string name="find">Find</string>
+    <string name="google_map_key">AIzaSyCAaAvZapJSwUPOhfaG7ijaRUX8vBZ0B6g</string>
+
+</resources>

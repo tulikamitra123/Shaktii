@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782763409956",
+    "firebase_url": "https://shaktii-1c50c-default-rtdb.firebaseio.com",
+    "project_id": "shaktii-1c50c",
+    "storage_bucket": "shaktii-1c50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782763409956:android:1cd5f0b5a9d663d2444eb1",
+        "android_client_info": {
+          "package_name": "com.example.shaktii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782763409956-b33v2haoblsv066ensvvt2m7t30q5nf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Ye3r-OwwfcJmAK4RgfNHSOj2JjafmJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782763409956-b33v2haoblsv066ensvvt2m7t30q5nf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
